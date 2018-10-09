@@ -1,8 +1,8 @@
-# Cookie Recipe
+# _Cookie Recipe_
 
 #### _HTML Exercise for Epicodus, 10.08.2018_
 
-#### By _**{List of contributors}**_
+#### By Christopher Thomas Cahill and Kristin Brewer-Lowe
 
 ## Description
 
