@@ -1,6 +1,6 @@
-# _{Application Name}_
+# Cookie Recipe
 
-#### _{Brief description of application}, {Date of current version}_
+#### _HTML Exercise for Epicodus, 10.08.2018_
 
 #### By _**{List of contributors}**_
 
